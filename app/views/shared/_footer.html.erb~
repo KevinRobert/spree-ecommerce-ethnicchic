@@ -1,0 +1,11 @@
+<footer>
+    <span></span>
+    <strong><a href="#" title="#TITLE">Ethnic Chic</a></strong>
+    <span></span>
+    <ul class="nav footer_nav">
+      <li><a rel="external" href="http://facebook.com/ethnicchic" title="Ethnic Chic Facebook">Facebook</a></li>
+      <li><a href="/contact-us" title="Contact Ethnic Chic">Contact</a></li>
+      <li><a href="/terms" title="Terms &amp; conditions">Terms</a></li>
+    </ul>
+</footer>
+
